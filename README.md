@@ -1,4 +1,4 @@
-## Hi there 👋
+## Thuraya 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C#
