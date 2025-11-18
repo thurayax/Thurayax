@@ -1,6 +1,6 @@
 # Hi there, I'm Thuraya! 👋  
 
-💻 **A developer passionate about application development and business analysis**  
+💻 **A developer passionate about application development and Game development**  
 🌱 Currently learning **C#** and exploring **Artificial Intelligence**  
 📌 Experienced in **PHP - Laravel - Bootstrap - MySQL**  
 🎯 Aiming to build tech solutions that enhance user experience  
